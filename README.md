@@ -10,13 +10,14 @@ As the stock market data is a time series data having continuous information, ou
 
 ## Dataset ##
 
-**Dataset Source** - Kaggle
+**Dataset Source:** Kaggle
 
-**URLs**:
+**URLs:**
 - https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020?taskId=2825
 - https://www.kaggle.com/datasets/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020
 
-**Overview**
+**Overview:**
+
 The datasets were published by Mustafa et al. (2020) and they are a part of ‘Speculator and Influencer Evaluation in Stock Market by Using Social Media’ conference paper which was published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track.
 
 ## Methodology ##
