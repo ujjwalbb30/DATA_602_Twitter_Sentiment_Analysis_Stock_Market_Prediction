@@ -67,8 +67,6 @@ The datasets were published by Mustafa et al. (2020) and they are a part of ‘S
   - LSTM 5: 100 LSTM blocks (hidden layer), 1 Dropout Layer
   - LSTM 6: 200 LSTM blocks (hidden layer), 1 Dropout Layer
 
-## Correlations and Significance ##
-
 ## Results ##
 
 ## Conclusions ##
