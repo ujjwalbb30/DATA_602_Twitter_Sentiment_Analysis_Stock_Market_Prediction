@@ -9,10 +9,13 @@ In this study, potential of Twitter sentiments as a key driving element in stock
 As the stock market data is a time series data having continuous information, our results indicated that the Long-Short Term Memory neural network (LSTM) model gives state-of-the-art results to forecast the stock prices using tweets sentiments and historical stock prices data. Our analysis resulted in confident predictive stock price models for Apple Inc., Amazon and Google as their stock prices showed a high correlation with Twitter Sentiments.
 
 ## Dataset ##
+
 **Dataset Source** - Kaggle
+
 **URLs**:
 - https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020?taskId=2825
 - https://www.kaggle.com/datasets/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020
+
 **Overview**
 The datasets were published by Mustafa et al. (2020) and they are a part of ‘Speculator and Influencer Evaluation in Stock Market by Using Social Media’ conference paper which was published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track.
 
