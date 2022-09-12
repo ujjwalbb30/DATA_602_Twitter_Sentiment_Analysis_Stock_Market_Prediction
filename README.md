@@ -21,10 +21,10 @@ As the stock market data is a time series data having continuous information, ou
 The datasets were published by Mustafa et al. (2020) and they are a part of ‘Speculator and Influencer Evaluation in Stock Market by Using Social Media’ conference paper which was published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track.
 
 **Data Files:**
-- Company.csv: contains the ticker symbols of the companies. Ticker symbols are the symbols used in NASDAQ to represent a company, for example, Apple is represented by ‘AAPL’.
-- Company_Tweet.csv: contains the unique tweet id associated with a tweet and the companies linked with the tweet id. There are a total of 3717964 unique tweet ids in this dataset.
-- Tweet.csv: contains different attributes of tweets, e.g., tweet id, the author of the tweet, the date on which the tweet was posted, the text contained in the tweet, the number of comments and likes on the tweet, and the number of times the tweet was retweeted.
-- CompanyValues.csv: contains the stock market data of different companies. For each day, it consists of the value of the first traded stock, the value of the last traded stock, the lowest value at which the stock was traded and the highest value at which the stock was traded.
+- **Company.csv:** contains the ticker symbols of the companies. Ticker symbols are the symbols used in NASDAQ to represent a company, for example, Apple is represented by ‘AAPL’.
+- **Company_Tweet.csv:** contains the unique tweet id associated with a tweet and the companies linked with the tweet id. There are a total of 3717964 unique tweet ids in this dataset.
+- **Tweet.csv:** contains different attributes of tweets, e.g., tweet id, the author of the tweet, the date on which the tweet was posted, the text contained in the tweet, the number of comments and likes on the tweet, and the number of times the tweet was retweeted.
+- **CompanyValues.csv:** contains the stock market data of different companies. For each day, it consists of the value of the first traded stock, the value of the last traded stock, the lowest value at which the stock was traded and the highest value at which the stock was traded.
 
 ## Methodology ##
 
