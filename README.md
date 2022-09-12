@@ -18,10 +18,10 @@ The datasets were published by Mustafa et al. (2020) and they are a part of ‘S
 
 ## Methodology ##
 
-## Correlations and Significance##
+## Correlations and Significance ##
 
 ## Results ##
 
-## Conclusions & Future Scope##
+## Conclusions & Future Scope ##
 
 ## References ##
